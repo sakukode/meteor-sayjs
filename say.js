@@ -1,0 +1,1 @@
+Say = Npm.require('say');
